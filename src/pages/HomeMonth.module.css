@@ -1,0 +1,1172 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  width: 1162px;
+  height: 513px;
+}
+.legendForDataChild {
+  position: absolute;
+  height: 90.91%;
+  width: 90.91%;
+  top: 0;
+  right: 9.09%;
+  bottom: 9.09%;
+  left: 0;
+  background-color: var(--nd-color);
+}
+.legendForData {
+  position: relative;
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.pravilniPodatki {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.legendForDataInner,
+.legendForDataItem {
+  position: absolute;
+  height: 90.91%;
+  width: 90.91%;
+  top: 0;
+  right: 9.09%;
+  bottom: 9.09%;
+  left: 0;
+  background-color: var(--althered-data);
+}
+.legendForDataInner {
+  background-color: var(--color-indianred);
+}
+.mankajoiPodatki {
+  position: relative;
+}
+.legend {
+  position: absolute;
+  top: 439px;
+  left: 114px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-68xl);
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 1.75%;
+  width: 100%;
+  top: 2.46%;
+  right: 0;
+  bottom: 95.79%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 20.33%;
+  width: 6.73%;
+  top: 0;
+  right: 46.63%;
+  bottom: 79.67%;
+  left: 46.63%;
+}
+.div {
+  position: absolute;
+  height: 50.81%;
+  width: 100%;
+  top: 49.19%;
+  left: 0;
+  display: inline-block;
+}
+.group2,
+.vectorIcon2 {
+  position: absolute;
+  height: 96.33%;
+  width: 1.36%;
+  top: 3.33%;
+  right: 98.64%;
+  bottom: 0.34%;
+  left: 0;
+}
+.vectorIcon2 {
+  height: 20.33%;
+  width: 8.98%;
+  top: 0;
+  right: 45.51%;
+  bottom: 79.67%;
+  left: 45.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group3,
+.group4,
+.group5,
+.group6,
+.group7,
+.group8,
+.vectorIcon8 {
+  position: absolute;
+  height: 96.33%;
+  width: 1.02%;
+  top: 3.33%;
+  right: 95.43%;
+  bottom: 0.34%;
+  left: 3.55%;
+}
+.group4,
+.group5,
+.group6,
+.group7,
+.group8,
+.vectorIcon8 {
+  width: 1.36%;
+  right: 91.88%;
+  left: 6.76%;
+}
+.group5,
+.group6,
+.group7,
+.group8,
+.vectorIcon8 {
+  right: 88.5%;
+  left: 10.14%;
+}
+.group6,
+.group7,
+.group8,
+.vectorIcon8 {
+  right: 85.12%;
+  left: 13.52%;
+}
+.group7,
+.group8,
+.vectorIcon8 {
+  right: 81.74%;
+  left: 16.91%;
+}
+.group8,
+.vectorIcon8 {
+  right: 78.36%;
+  left: 20.29%;
+}
+.vectorIcon8 {
+  height: 20.33%;
+  width: 7.7%;
+  top: 0;
+  right: 46.15%;
+  bottom: 79.67%;
+  left: 46.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group10,
+.group11,
+.group9,
+.vectorIcon11 {
+  position: absolute;
+  height: 96.33%;
+  width: 1.19%;
+  top: 3.33%;
+  right: 75.06%;
+  bottom: 0.34%;
+  left: 23.75%;
+}
+.group10,
+.group11,
+.vectorIcon11 {
+  width: 1.36%;
+  right: 71.59%;
+  left: 27.05%;
+}
+.group11,
+.vectorIcon11 {
+  right: 68.21%;
+  left: 30.43%;
+}
+.vectorIcon11 {
+  height: 19.58%;
+  width: 0.15%;
+  top: 3.51%;
+  right: 98.84%;
+  bottom: 76.91%;
+  left: 1.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div10 {
+  position: absolute;
+  height: 48.95%;
+  width: 2.18%;
+  top: 50.89%;
+  left: 0;
+  display: inline-block;
+}
+.vectorIcon12 {
+  position: absolute;
+  height: 19.58%;
+  width: 0.16%;
+  top: 3.51%;
+  right: 98.69%;
+  bottom: 76.91%;
+  left: 1.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div11 {
+  position: absolute;
+  height: 48.95%;
+  width: 2.45%;
+  top: 50.89%;
+  left: 0;
+  display: inline-block;
+}
+.vectorIcon13 {
+  position: absolute;
+  height: 19.58%;
+  width: 0.19%;
+  top: 3.51%;
+  right: 98.51%;
+  bottom: 76.91%;
+  left: 1.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div12 {
+  position: absolute;
+  height: 48.95%;
+  width: 2.79%;
+  top: 50.89%;
+  left: 0;
+  display: inline-block;
+}
+.vectorIcon14 {
+  position: absolute;
+  height: 19.58%;
+  width: 0.22%;
+  top: 3.51%;
+  right: 98.27%;
+  bottom: 76.91%;
+  left: 1.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div13 {
+  position: absolute;
+  height: 48.95%;
+  width: 3.24%;
+  top: 50.89%;
+  left: 0;
+  display: inline-block;
+}
+.vectorIcon15 {
+  position: absolute;
+  height: 19.58%;
+  width: 0.26%;
+  top: 3.51%;
+  right: 97.94%;
+  bottom: 76.91%;
+  left: 1.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div14 {
+  position: absolute;
+  height: 48.95%;
+  width: 3.86%;
+  top: 50.89%;
+  left: 0;
+  display: inline-block;
+}
+.vectorIcon16 {
+  position: absolute;
+  height: 19.58%;
+  width: 0.32%;
+  top: 3.51%;
+  right: 97.45%;
+  bottom: 76.91%;
+  left: 2.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div15 {
+  position: absolute;
+  height: 48.95%;
+  width: 4.78%;
+  top: 50.89%;
+  left: 0;
+  display: inline-block;
+}
+.vectorIcon17 {
+  position: absolute;
+  height: 19.58%;
+  width: 0.42%;
+  top: 3.51%;
+  right: 96.64%;
+  bottom: 76.91%;
+  left: 2.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div16 {
+  position: absolute;
+  height: 49.12%;
+  width: 6.36%;
+  top: 50.88%;
+  left: 0;
+  display: inline-block;
+}
+.vectorIcon18 {
+  position: absolute;
+  height: 19.61%;
+  width: 0.61%;
+  top: 3.51%;
+  right: 95.39%;
+  bottom: 76.87%;
+  left: 3.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div17 {
+  position: absolute;
+  height: 49.03%;
+  width: 9.12%;
+  top: 50.97%;
+  left: 0;
+  display: inline-block;
+}
+.vectorIcon19 {
+  position: absolute;
+  height: 19.61%;
+  width: 1.11%;
+  top: 0;
+  right: 90.07%;
+  bottom: 80.39%;
+  left: 8.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div18 {
+  position: absolute;
+  height: 45.69%;
+  width: 16.69%;
+  top: 50.97%;
+  left: 0;
+  display: inline-block;
+}
+.vectorIcon20 {
+  height: 19.96%;
+  width: 6.73%;
+  top: 0;
+  right: 49.5%;
+  bottom: 80.04%;
+  left: 43.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div19,
+.group21,
+.vectorIcon20 {
+  position: absolute;
+}
+.div19 {
+  height: 49.91%;
+  width: 100%;
+  top: 50.09%;
+  left: 0;
+  display: inline-block;
+}
+.group21 {
+  height: 98.24%;
+  width: 16.53%;
+  top: 1.76%;
+  right: 0;
+  bottom: 0;
+  left: 83.47%;
+}
+.group17,
+.group18,
+.group19,
+.group20 {
+  position: absolute;
+  height: 100%;
+  width: 55.17%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 44.83%;
+}
+.group17,
+.group18,
+.group19 {
+  height: 99.82%;
+  width: 69.05%;
+  bottom: 0.18%;
+  left: 30.95%;
+}
+.group17,
+.group18 {
+  height: 100%;
+  width: 75.87%;
+  bottom: 0;
+  left: 24.13%;
+}
+.group17 {
+  width: 80.77%;
+  left: 19.23%;
+}
+.group12,
+.group13,
+.group14,
+.group15,
+.group16,
+.vectorIcon21 {
+  position: absolute;
+  height: 100%;
+  width: 83.87%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 16.13%;
+}
+.group12,
+.group13,
+.group14,
+.group15,
+.vectorIcon21 {
+  width: 86.11%;
+  left: 13.89%;
+}
+.group12,
+.group13,
+.group14,
+.vectorIcon21 {
+  width: 87.81%;
+  left: 12.19%;
+}
+.group12,
+.group13,
+.vectorIcon21 {
+  width: 89.13%;
+  left: 10.87%;
+}
+.group12,
+.vectorIcon21 {
+  width: 62.21%;
+  right: 4.05%;
+  left: 33.74%;
+}
+.vectorIcon21 {
+  height: 20.33%;
+  width: 4.49%;
+  right: 47.76%;
+  bottom: 79.67%;
+  left: 47.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group22,
+.vectorIcon22 {
+  position: absolute;
+  height: 96.33%;
+  width: 2.04%;
+  top: 3.33%;
+  right: 61.11%;
+  bottom: 0.34%;
+  left: 36.85%;
+}
+.vectorIcon22 {
+  height: 20.33%;
+  width: 3.85%;
+  top: 0;
+  right: 48.08%;
+  bottom: 79.67%;
+  left: 48.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group23,
+.vectorIcon23 {
+  position: absolute;
+  height: 96.33%;
+  width: 2.37%;
+  top: 3.33%;
+  right: 54.18%;
+  bottom: 0.34%;
+  left: 43.44%;
+}
+.vectorIcon23 {
+  height: 20.33%;
+  width: 4.14%;
+  top: 0;
+  right: 47.93%;
+  bottom: 79.67%;
+  left: 47.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group24,
+.group25,
+.group26,
+.group27,
+.vectorIcon27 {
+  position: absolute;
+  height: 96.33%;
+  width: 2.21%;
+  top: 3.33%;
+  right: 47.5%;
+  bottom: 0.34%;
+  left: 50.29%;
+}
+.group25,
+.group26,
+.group27,
+.vectorIcon27 {
+  right: 40.74%;
+  left: 57.05%;
+}
+.group26,
+.group27,
+.vectorIcon27 {
+  width: 2.37%;
+  right: 33.89%;
+  left: 63.73%;
+}
+.group27,
+.vectorIcon27 {
+  width: 2.21%;
+  right: 27.22%;
+  left: 70.58%;
+}
+.vectorIcon27 {
+  height: 20.33%;
+  width: 3.59%;
+  top: 0;
+  right: 48.2%;
+  bottom: 79.67%;
+  left: 48.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group,
+.group1,
+.group28,
+.group29,
+.group30,
+.group31 {
+  position: absolute;
+  height: 96.33%;
+  width: 2.54%;
+  top: 3.33%;
+  right: 20.29%;
+  bottom: 0.34%;
+  left: 77.17%;
+}
+.group,
+.group1,
+.group29,
+.group30,
+.group31 {
+  right: 13.52%;
+  left: 83.93%;
+}
+.group,
+.group1,
+.group30,
+.group31 {
+  right: 6.76%;
+  left: 90.69%;
+}
+.group,
+.group1,
+.group31 {
+  right: 0;
+  left: 97.46%;
+}
+.group,
+.group1 {
+  height: 100%;
+  width: 98.59%;
+  top: 0;
+  right: 0.41%;
+  bottom: 0;
+  left: 1%;
+}
+.group {
+  height: 15.32%;
+  width: 89.52%;
+  top: 81.99%;
+  right: 0.75%;
+  bottom: 2.69%;
+  left: 9.73%;
+}
+.vectorIcon31,
+.vectorIcon32 {
+  position: absolute;
+  height: 93.57%;
+  width: 2.24%;
+  top: 2.19%;
+  right: -1.12%;
+  bottom: 4.25%;
+  left: 98.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon32 {
+  height: 3.58%;
+  width: 31.58%;
+  top: 49.81%;
+  right: 0;
+  bottom: 46.61%;
+  left: 68.42%;
+}
+.div30 {
+  position: absolute;
+  height: 100%;
+  width: 42.11%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group34,
+.group35,
+.group36,
+.group37,
+.vectorIcon36 {
+  position: absolute;
+  height: 8.77%;
+  width: 79.17%;
+  top: 91.23%;
+  right: 0;
+  bottom: 0;
+  left: 20.83%;
+}
+.group35,
+.group36,
+.group37,
+.vectorIcon36 {
+  top: 67.84%;
+  bottom: 23.39%;
+}
+.group36,
+.group37,
+.vectorIcon36 {
+  top: 44.44%;
+  bottom: 46.78%;
+}
+.group37,
+.vectorIcon36 {
+  top: 21.05%;
+  bottom: 70.18%;
+}
+.vectorIcon36 {
+  height: 3.58%;
+  width: 25%;
+  top: 23.14%;
+  bottom: 73.27%;
+  left: 75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div34 {
+  position: absolute;
+  height: 100%;
+  width: 54.17%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group32,
+.group33,
+.group38 {
+  position: absolute;
+  height: 8.77%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 91.23%;
+  left: 0;
+}
+.group32,
+.group33 {
+  height: 100%;
+  bottom: 0;
+}
+.group32 {
+  height: 85.5%;
+  width: 3.59%;
+  top: 0.63%;
+  right: 90.27%;
+  bottom: 13.87%;
+  left: 6.14%;
+  text-align: right;
+}
+.groupIcon,
+.groupIcon1,
+.groupIcon2,
+.vectorIcon37,
+.vectorIcon38 {
+  position: absolute;
+  height: 76.05%;
+  width: 88.78%;
+  top: 6.45%;
+  right: 1.19%;
+  bottom: 17.5%;
+  left: 10.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon1,
+.groupIcon2,
+.vectorIcon37,
+.vectorIcon38 {
+  height: 9.41%;
+  width: 2.26%;
+  top: 66.67%;
+  right: 34.03%;
+  bottom: 23.92%;
+  left: 63.71%;
+}
+.groupIcon1,
+.groupIcon2,
+.vectorIcon38 {
+  top: 33.87%;
+  right: 28.06%;
+  bottom: 56.72%;
+  left: 69.68%;
+}
+.groupIcon1,
+.groupIcon2 {
+  height: 31.13%;
+  width: 76.84%;
+  top: 37.9%;
+  right: 13.16%;
+  bottom: 30.97%;
+  left: 10%;
+}
+.groupIcon2 {
+  height: 10.7%;
+  width: 2.25%;
+  top: 18.55%;
+  right: 1.22%;
+  bottom: 70.75%;
+  left: 96.53%;
+}
+.chart {
+  top: 56px;
+  left: 0;
+  width: 1240px;
+  height: 372px;
+  overflow: hidden;
+  text-align: center;
+}
+.chart,
+.kwh,
+.title {
+  position: absolute;
+}
+.kwh {
+  top: 28px;
+  left: 92px;
+  text-align: center;
+}
+.title {
+  top: 12px;
+  left: calc(50% - 144px);
+  font-size: var(--subheading-style-size);
+  font-weight: 600;
+}
+.barChart {
+  position: absolute;
+  top: 412px;
+  left: 196px;
+  width: 1242px;
+  height: 513px;
+  font-size: var(--font-size-xs);
+}
+.smallWindowChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+}
+.smallWindow,
+.smallWindow1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 90px;
+}
+.smallWindow1 {
+  left: 313px;
+}
+.div35,
+.kwh1 {
+  position: absolute;
+  top: 43px;
+  left: 47px;
+  font-weight: 800;
+}
+.div35 {
+  left: 414px;
+}
+.skupnaPoraba,
+.teviloSpremenjenihPodatkov {
+  position: absolute;
+  top: 10px;
+  left: 63px;
+  font-size: var(--text-style-size);
+}
+.teviloSpremenjenihPodatkov {
+  left: 317px;
+}
+.upperRow {
+  position: relative;
+  width: 553px;
+  height: 90px;
+}
+.povprenaPoraba {
+  position: absolute;
+  top: 10px;
+  left: 51px;
+}
+.div36,
+.kwhh,
+.teviloPrekoraitev {
+  position: absolute;
+  top: 10px;
+  left: 358px;
+}
+.div36,
+.kwhh {
+  top: 43px;
+  left: 54px;
+  font-size: var(--heading-style-size);
+  font-weight: 800;
+}
+.div36 {
+  left: 414px;
+}
+.bottomRow {
+  position: relative;
+  width: 553px;
+  height: 90px;
+  font-size: var(--text-style-size);
+}
+.smallWindows1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.div37,
+.div38 {
+  position: absolute;
+  top: 43px;
+  left: 101px;
+  font-weight: 800;
+}
+.div38 {
+  left: 401px;
+}
+.nepravilneMeritve,
+.teviloAnomalij {
+  position: absolute;
+  top: 10px;
+  left: 361px;
+  font-size: var(--text-style-size);
+}
+.teviloAnomalij {
+  left: 61px;
+}
+.najmanjaPoraba,
+.najvejaPoraba {
+  position: absolute;
+  top: 10px;
+  left: 58px;
+}
+.najmanjaPoraba {
+  left: 364px;
+}
+.div39 {
+  top: 43px;
+  left: 79px;
+  font-weight: 800;
+}
+.div39,
+.div40,
+.smallWindows {
+  position: absolute;
+  font-size: var(--heading-style-size);
+}
+.div40 {
+  top: 45px;
+  left: 391px;
+  font-weight: 800;
+}
+.smallWindows {
+  top: 167px;
+  left: 271px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-40xl);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+  width: 70px;
+  height: 25px;
+}
+.dan {
+  position: absolute;
+  top: 3px;
+  left: 18px;
+}
+.rectangleParent {
+  position: relative;
+  width: 70px;
+  height: 25px;
+  cursor: pointer;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+  width: 70px;
+  height: 25px;
+}
+.mesec {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+}
+.rectangleGroup {
+  position: relative;
+  width: 70px;
+  height: 25px;
+}
+.buttons,
+.leto {
+  position: absolute;
+  top: 3px;
+  left: 15px;
+}
+.buttons {
+  top: 118px;
+  left: 1188px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+}
+.title1 {
+  position: absolute;
+  top: 119px;
+  left: 276px;
+  font-size: var(--subheading-style-size);
+  font-weight: 600;
+}
+.background1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--primary-color);
+  width: 196px;
+  height: 42px;
+}
+.clipPathGroup {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.primerjava {
+  margin: 0;
+}
+.content {
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.comparison {
+  position: absolute;
+  top: 98px;
+  left: 0;
+  width: 196px;
+  height: 42px;
+  cursor: pointer;
+}
+.vectorIcon39,
+.zgodovina {
+  position: relative;
+  width: 14px;
+  height: 13.57px;
+}
+.zgodovina {
+  font-weight: 600;
+  display: inline-block;
+  width: 108px;
+  height: 21px;
+  flex-shrink: 0;
+}
+.content1 {
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.background3,
+.history {
+  position: absolute;
+  left: 0;
+  width: 196px;
+  height: 42px;
+}
+.history {
+  top: 54px;
+  cursor: pointer;
+}
+.background3 {
+  top: 0;
+  background-color: var(--white);
+}
+.vectorIcon40 {
+  position: relative;
+  width: 15px;
+  height: 15px;
+}
+.home {
+  top: 10px;
+  width: 196px;
+  height: 42px;
+  cursor: pointer;
+  color: var(--primary-color);
+}
+.background4,
+.home,
+.sidebar {
+  position: absolute;
+  left: 0;
+}
+.sidebar {
+  top: 97px;
+  background-color: var(--primary-color);
+  width: 196px;
+  height: 884px;
+  overflow: hidden;
+  font-size: var(--subheading-style-size);
+  color: var(--white);
+}
+.background4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--white);
+}
+.logoIcon {
+  position: absolute;
+  height: 52.58%;
+  width: 18.25%;
+  top: 25.77%;
+  right: 80.62%;
+  bottom: 21.65%;
+  left: 1.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.userProfileIcon {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.userInfo {
+  position: absolute;
+  top: 26px;
+  left: 1318px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  cursor: pointer;
+}
+.homeMonth,
+.navbar {
+  background-color: var(--white);
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.25);
+  width: 1512px;
+  height: 97px;
+}
+.homeMonth {
+  position: relative;
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-style-size);
+  color: var(--subheading-color);
+  font-family: var(--text-style);
+}

@@ -1,0 +1,859 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 75.94px;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  width: 1161.06px;
+  height: 513px;
+}
+.legendForDataChild {
+  position: absolute;
+  height: 90.91%;
+  width: 90.91%;
+  top: 0;
+  right: 9.09%;
+  bottom: 9.09%;
+  left: 0;
+  background-color: var(--nd-color);
+}
+.legendForData {
+  position: relative;
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.pravilniPodatki {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.legendForDataInner,
+.legendForDataItem {
+  position: absolute;
+  height: 90.91%;
+  width: 90.91%;
+  top: 0;
+  right: 9.09%;
+  bottom: 9.09%;
+  left: 0;
+  background-color: var(--althered-data);
+}
+.legendForDataInner {
+  background-color: var(--color-indianred);
+}
+.mankajoiPodatki {
+  position: relative;
+}
+.legend {
+  position: absolute;
+  top: 439px;
+  left: 109.91px;
+  width: 587px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-68xl);
+}
+.vectorIcon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+  flex-shrink: 0;
+}
+.div,
+.vectorIcon1 {
+  position: relative;
+  width: 1px;
+  height: 11.16px;
+}
+.div {
+  display: inline-block;
+  width: 14.84px;
+  height: 27.9px;
+  flex-shrink: 0;
+}
+.frame2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 14.84px;
+  height: 54.91px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 1.4062717923479795e-7px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+}
+.div1 {
+  position: relative;
+  display: inline-block;
+  width: 11.13px;
+  height: 27.9px;
+  flex-shrink: 0;
+}
+.frame3,
+.frame4,
+.frame5,
+.frame6,
+.frame7,
+.frame8 {
+  position: absolute;
+  top: 0;
+  left: 48.07px;
+  width: 11.13px;
+  height: 54.91px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 4.722156177194847e-8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+}
+.frame4,
+.frame5,
+.frame6,
+.frame7,
+.frame8 {
+  left: 92.43px;
+  width: 14.84px;
+  padding: 0 0 0 5.447458306662156e-7px;
+}
+.frame5,
+.frame6,
+.frame7,
+.frame8 {
+  left: 138.65px;
+  padding: 0 0 0 0.000004084256488567917px;
+}
+.frame6,
+.frame7,
+.frame8 {
+  left: 184.86px;
+  padding: 0 0 0 0.000015147620615607593px;
+}
+.frame7,
+.frame8 {
+  left: 231.08px;
+  padding: 0 0 0 0.000005261085334495874px;
+}
+.frame8 {
+  left: 277.29px;
+  padding: 0 0 0 0.000005907819740968989px;
+}
+.div7 {
+  position: relative;
+  display: inline-block;
+  width: 12.98px;
+  height: 27.9px;
+  flex-shrink: 0;
+}
+.frame10,
+.frame11,
+.frame9 {
+  position: absolute;
+  top: 0;
+  left: 324.43px;
+  width: 12.98px;
+  height: 54.91px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 0.00003432161611272022px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+}
+.frame10,
+.frame11 {
+  left: 369.72px;
+  width: 14.84px;
+  padding: 0 0 0 0.00003227468187105842px;
+}
+.frame11 {
+  left: 415.94px;
+  padding: 0 0 0 0.000025004697818076238px;
+}
+.div10 {
+  position: relative;
+  display: inline-block;
+  width: 25.97px;
+  height: 27.9px;
+  flex-shrink: 0;
+}
+.frame12 {
+  position: absolute;
+  top: 0;
+  left: 456.59px;
+  width: 25.97px;
+  height: 54.91px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 0.000024054355890257284px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+}
+.div11 {
+  position: relative;
+  display: inline-block;
+  width: 22.26px;
+  height: 27.9px;
+  flex-shrink: 0;
+}
+.frame13 {
+  position: absolute;
+  top: 0;
+  left: 504.66px;
+  width: 22.26px;
+  height: 54.91px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 0.00004197647649561986px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+}
+.div12 {
+  position: relative;
+  display: inline-block;
+  width: 24.11px;
+  height: 27.9px;
+  flex-shrink: 0;
+}
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  position: absolute;
+  top: 0;
+  left: 549.95px;
+  width: 24.11px;
+  height: 54.91px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 0.00007878112228354439px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+}
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 595.23px;
+  width: 25.97px;
+  padding: 0 0 0 0.000008815686669549905px;
+}
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 641.45px;
+  padding: 0 0 0 0.000007694820851611439px;
+}
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 688.59px;
+  width: 24.11px;
+  padding: 0 0 0 0.000029166671083658002px;
+}
+.frame18,
+.frame19,
+.frame20,
+.frame21 {
+  left: 733.88px;
+  width: 25.97px;
+  padding: 0 0 0 0.0000012129527249271632px;
+}
+.frame19,
+.frame20,
+.frame21 {
+  left: 781.02px;
+  width: 24.11px;
+  padding: 0 0 0 0.000029626748073496856px;
+}
+.frame20,
+.frame21 {
+  left: 827.24px;
+  padding: 0 0 0 0.00009738239168655127px;
+}
+.frame21 {
+  left: 872.52px;
+  width: 25.97px;
+  padding: 0 0 0 0.00005082740608486347px;
+}
+.div20 {
+  position: relative;
+  display: inline-block;
+  width: 27.82px;
+  height: 27.9px;
+  flex-shrink: 0;
+}
+.frame22,
+.frame23,
+.frame24,
+.frame25 {
+  position: absolute;
+  top: 0;
+  left: 917.81px;
+  width: 27.82px;
+  height: 54.91px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 0.00005273934584693052px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mini);
+}
+.frame23,
+.frame24,
+.frame25 {
+  left: 965.88px;
+  width: 24.11px;
+  padding: 0 0 0 0.0000700622404110618px;
+}
+.frame24,
+.frame25 {
+  left: 1010.24px;
+  width: 27.82px;
+  padding: 0 0 0 0.0000018139432995667448px;
+}
+.frame25 {
+  left: 1056.46px;
+  padding: 0 0 0 0.000007365023975580698px;
+}
+.frame1 {
+  align-self: stretch;
+  position: relative;
+  height: 54.91px;
+}
+.frame {
+  position: absolute;
+  top: 306.9px;
+  left: 120.56px;
+  width: 1109.16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.vectorIcon25 {
+  position: absolute;
+  height: 3.58%;
+  width: 25%;
+  top: 23.14%;
+  right: 0;
+  bottom: 73.27%;
+  left: 75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div24 {
+  position: absolute;
+  height: 100%;
+  width: 54.17%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.frame28,
+.vectorIcon26 {
+  position: relative;
+  width: 44.51px;
+  height: 27.9px;
+}
+.vectorIcon26 {
+  width: 11.13px;
+  height: 1px;
+}
+.frame29 {
+  width: 35.24px;
+  height: 27.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.frame27 {
+  width: 44.51px;
+  height: 318.06px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0.0000247955322265625px;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 46px;
+}
+.vectorIcon30 {
+  position: relative;
+  width: 1px;
+  height: 297.6px;
+}
+.frame26 {
+  position: absolute;
+  top: 2.34px;
+  left: 76.05px;
+  width: 44.51px;
+  height: 318.06px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  text-align: right;
+}
+.groupIcon,
+.vectorIcon31 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon {
+  position: absolute;
+  height: 66.85%;
+  width: 88.41%;
+  top: 15.83%;
+  right: 1.43%;
+  bottom: 17.31%;
+  left: 10.16%;
+}
+.vectorIcon31 {
+  height: 16.13%;
+  width: 2.84%;
+  top: 66.4%;
+  right: 79.58%;
+  bottom: 17.47%;
+  left: 17.58%;
+}
+.chart,
+.h,
+.vectorIcon31 {
+  position: absolute;
+}
+.h {
+  width: 0.65%;
+  top: 89.78%;
+  left: 98.55%;
+  display: inline-block;
+}
+.chart {
+  top: 55px;
+  left: 0;
+  width: 1239px;
+  height: 372px;
+  overflow: hidden;
+  text-align: center;
+}
+.kwh,
+.title {
+  position: absolute;
+  display: inline-block;
+}
+.kwh {
+  top: 28px;
+  left: 87.93px;
+  text-align: center;
+  width: 26.98px;
+}
+.title {
+  top: 12px;
+  left: calc(50% - 142.88px);
+  font-size: var(--subheading-style-size);
+  font-weight: 600;
+  width: 358.71px;
+}
+.barChart {
+  position: absolute;
+  top: 412px;
+  left: 199px;
+  width: 1239px;
+  height: 513px;
+  font-size: var(--font-size-xs);
+}
+.smallWindowChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+}
+.smallWindow,
+.smallWindow1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 90px;
+}
+.smallWindow1 {
+  left: 313px;
+}
+.div29,
+.kwh1 {
+  position: absolute;
+  top: 43px;
+  left: 57px;
+  font-weight: 800;
+}
+.div29 {
+  left: 424px;
+}
+.skupnaPoraba,
+.teviloSpremenjenihPodatkov {
+  position: absolute;
+  top: 10px;
+  left: 63px;
+  font-size: var(--text-style-size);
+}
+.teviloSpremenjenihPodatkov {
+  left: 317px;
+}
+.upperRow {
+  align-self: stretch;
+  position: relative;
+  height: 90px;
+}
+.povprenaPoraba {
+  position: absolute;
+  top: 10px;
+  left: 51px;
+}
+.div30,
+.kwhh,
+.teviloPrekoraitev {
+  position: absolute;
+  top: 10px;
+  left: 358px;
+}
+.div30,
+.kwhh {
+  top: 43px;
+  left: 54px;
+  font-size: var(--heading-style-size);
+  font-weight: 800;
+}
+.div30 {
+  left: 424px;
+}
+.bottomRow {
+  align-self: stretch;
+  position: relative;
+  height: 90px;
+  font-size: var(--text-style-size);
+}
+.smallWindows1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.div31,
+.div32 {
+  position: absolute;
+  top: 43px;
+  left: 110px;
+  font-weight: 800;
+}
+.div32 {
+  left: 403px;
+}
+.nepravilneMeritve,
+.teviloAnomalij {
+  position: absolute;
+  top: 10px;
+  left: 361px;
+  font-size: var(--text-style-size);
+}
+.teviloAnomalij {
+  left: 61px;
+}
+.najmanjaPoraba,
+.najvejaPoraba {
+  position: absolute;
+  top: 10px;
+  left: 58px;
+}
+.najmanjaPoraba {
+  left: 364px;
+}
+.div33 {
+  top: 45px;
+  left: 31px;
+  font-weight: 800;
+}
+.div33,
+.div34,
+.smallWindows {
+  position: absolute;
+  font-size: var(--heading-style-size);
+}
+.div34 {
+  top: 45px;
+  left: 361px;
+  font-weight: 800;
+}
+.smallWindows {
+  top: 167px;
+  left: 271px;
+  width: 1165px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-40xl);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+  width: 70px;
+  height: 25px;
+}
+.dan {
+  position: absolute;
+  top: 3px;
+  left: 18px;
+}
+.groupItem,
+.rectangleParent {
+  position: relative;
+  width: 70px;
+  height: 25px;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+}
+.leto,
+.mesec {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+}
+.leto {
+  left: 15px;
+}
+.rectangleContainer {
+  position: relative;
+  width: 70px;
+  height: 25px;
+  cursor: pointer;
+}
+.buttons {
+  position: absolute;
+  top: 118px;
+  left: 1190px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.title1 {
+  position: absolute;
+  top: 119px;
+  left: 271px;
+  font-size: var(--subheading-style-size);
+  font-weight: 600;
+}
+.background1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--primary-color);
+  width: 196px;
+  height: 42px;
+}
+.clipPathGroup {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.primerjava {
+  margin: 0;
+}
+.content {
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.comparison {
+  position: absolute;
+  top: 98px;
+  left: 0;
+  width: 196px;
+  height: 42px;
+  cursor: pointer;
+}
+.vectorIcon32,
+.zgodovina {
+  position: relative;
+  width: 14px;
+  height: 13.57px;
+}
+.zgodovina {
+  font-weight: 600;
+  display: inline-block;
+  width: 108px;
+  height: 21px;
+  flex-shrink: 0;
+}
+.content1 {
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.background3,
+.history {
+  position: absolute;
+  left: 0;
+  width: 196px;
+  height: 42px;
+}
+.history {
+  top: 54px;
+  cursor: pointer;
+}
+.background3 {
+  top: 0;
+  background-color: var(--white);
+}
+.vectorIcon33 {
+  position: relative;
+  width: 15px;
+  height: 15px;
+}
+.home {
+  top: 10px;
+  width: 196px;
+  height: 42px;
+  cursor: pointer;
+  color: var(--primary-color);
+}
+.background4,
+.home,
+.sidebar {
+  position: absolute;
+  left: 0;
+}
+.sidebar {
+  top: 97px;
+  background-color: var(--primary-color);
+  width: 196px;
+  height: 884px;
+  overflow: hidden;
+  font-size: var(--subheading-style-size);
+  color: var(--white);
+}
+.background4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--white);
+}
+.logoIcon {
+  position: absolute;
+  height: 52.58%;
+  width: 18.25%;
+  top: 25.77%;
+  right: 80.62%;
+  bottom: 21.65%;
+  left: 1.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.userProfileIcon {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.userInfo {
+  position: absolute;
+  top: 26px;
+  left: 1318px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  cursor: pointer;
+}
+.homeDay,
+.navbar {
+  background-color: var(--white);
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.25);
+  width: 1512px;
+  height: 97px;
+}
+.homeDay {
+  position: relative;
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-style-size);
+  color: var(--subheading-color);
+  font-family: var(--text-style);
+}

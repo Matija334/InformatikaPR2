@@ -1,0 +1,389 @@
+.backgroundChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+}
+.background,
+.tableBackground {
+  position: absolute;
+  top: 165px;
+  left: 271px;
+  width: 1164px;
+  height: 760px;
+}
+.tableBackground {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 1100px;
+  height: 690px;
+}
+.expandLeftIcon {
+  width: 24px;
+  height: 24px;
+}
+.expandLeftIcon,
+.page1Od {
+  position: relative;
+}
+.pageNavigation {
+  position: absolute;
+  top: 643px;
+  left: 466px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.tableRow10Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--white);
+  border-bottom: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+}
+.div {
+  position: absolute;
+  top: 32.14%;
+  left: 1.18%;
+}
+.div1,
+.div2,
+.div3,
+.kwh,
+.kwhh {
+  position: absolute;
+  top: 32.14%;
+  left: 16.18%;
+}
+.div1,
+.div2,
+.div3,
+.kwhh {
+  left: 36.18%;
+}
+.div1,
+.div2,
+.div3 {
+  left: 57.18%;
+}
+.div2,
+.div3 {
+  left: 73.09%;
+}
+.div3 {
+  left: 91%;
+}
+.tableHeaderChild,
+.tableRow1,
+.tableRow10,
+.tableRow2,
+.tableRow3,
+.tableRow4,
+.tableRow5,
+.tableRow6,
+.tableRow7,
+.tableRow8,
+.tableRow9 {
+  position: absolute;
+  top: 560px;
+  left: 0;
+  border-bottom: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+  width: 1100px;
+  height: 56px;
+}
+.tableHeaderChild,
+.tableRow1,
+.tableRow2,
+.tableRow3,
+.tableRow4,
+.tableRow5,
+.tableRow6,
+.tableRow7,
+.tableRow8,
+.tableRow9 {
+  top: 504px;
+}
+.tableHeaderChild,
+.tableRow1,
+.tableRow2,
+.tableRow3,
+.tableRow4,
+.tableRow5,
+.tableRow6,
+.tableRow7,
+.tableRow8 {
+  top: 448px;
+}
+.tableHeaderChild,
+.tableRow1,
+.tableRow2,
+.tableRow3,
+.tableRow4,
+.tableRow5,
+.tableRow6,
+.tableRow7 {
+  top: 392px;
+}
+.tableHeaderChild,
+.tableRow1,
+.tableRow2,
+.tableRow3,
+.tableRow4,
+.tableRow5,
+.tableRow6 {
+  top: 336px;
+}
+.tableHeaderChild,
+.tableRow1,
+.tableRow2,
+.tableRow3,
+.tableRow4,
+.tableRow5 {
+  top: 280px;
+}
+.tableHeaderChild,
+.tableRow1,
+.tableRow2,
+.tableRow3,
+.tableRow4 {
+  top: 224px;
+}
+.tableHeaderChild,
+.tableRow1,
+.tableRow2,
+.tableRow3 {
+  top: 168px;
+}
+.tableHeaderChild,
+.tableRow1,
+.tableRow2 {
+  top: 112px;
+}
+.tableHeaderChild,
+.tableRow1 {
+  top: 56px;
+}
+.tableHeaderChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--white);
+}
+.datum {
+  position: relative;
+  font-weight: 600;
+}
+.datumParent {
+  position: absolute;
+  height: 42.86%;
+  width: 95.91%;
+  top: 28.57%;
+  right: 2.09%;
+  bottom: 28.57%;
+  left: 2%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 54px;
+}
+.tableHeader {
+  top: 0;
+  left: 0;
+  width: 1100px;
+  height: 56px;
+  font-size: var(--subheading-style-size);
+}
+.table,
+.tableHeader,
+.title {
+  position: absolute;
+}
+.table {
+  top: 200px;
+  left: 303px;
+  width: 1100px;
+  height: 690px;
+}
+.title {
+  top: 119px;
+  left: 271px;
+  font-size: var(--subheading-style-size);
+  font-weight: 600;
+}
+.background1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--primary-color);
+  width: 196px;
+  height: 42px;
+}
+.clipPathGroup {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.primerjava {
+  margin: 0;
+}
+.content {
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.background2,
+.comparison {
+  position: absolute;
+  left: 0;
+  width: 196px;
+  height: 42px;
+}
+.comparison {
+  top: 98px;
+  cursor: pointer;
+}
+.background2 {
+  top: 0;
+  background-color: var(--white);
+}
+.vectorIcon,
+.zgodovina {
+  position: relative;
+  width: 14px;
+  height: 13.57px;
+}
+.zgodovina {
+  font-weight: 600;
+  display: inline-block;
+  width: 108px;
+  height: 21px;
+  flex-shrink: 0;
+}
+.content1 {
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.history1 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  width: 196px;
+  height: 42px;
+  cursor: pointer;
+  color: var(--primary-color);
+}
+.vectorIcon1 {
+  position: relative;
+  width: 15px;
+  height: 15px;
+}
+.home {
+  top: 10px;
+  width: 196px;
+  height: 42px;
+  cursor: pointer;
+}
+.background4,
+.home,
+.sidebar {
+  position: absolute;
+  left: 0;
+}
+.sidebar {
+  top: 97px;
+  background-color: var(--primary-color);
+  width: 196px;
+  height: 884px;
+  overflow: hidden;
+  font-size: var(--subheading-style-size);
+  color: var(--white);
+}
+.background4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--white);
+}
+.logoIcon {
+  position: absolute;
+  height: 52.58%;
+  width: 18.25%;
+  top: 25.77%;
+  right: 80.62%;
+  bottom: 21.65%;
+  left: 1.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.userProfileIcon {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.userInfo {
+  position: absolute;
+  top: 26px;
+  left: 1318px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  cursor: pointer;
+}
+.history,
+.navbar {
+  background-color: var(--white);
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.25);
+  width: 1512px;
+  height: 97px;
+}
+.history {
+  position: relative;
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-style-size);
+  color: var(--subheading-color);
+  font-family: var(--text-style);
+}

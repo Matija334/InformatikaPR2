@@ -1,0 +1,559 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  width: 558px;
+  height: 473px;
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 1.53%;
+  width: 100%;
+  top: -0.77%;
+  right: 0;
+  bottom: 99.23%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 21%;
+  width: 0.38%;
+  top: 0;
+  right: 49.6%;
+  bottom: 79%;
+  left: 50.02%;
+}
+.novNain,
+.starNain {
+  position: absolute;
+  height: 67.46%;
+  width: 27.71%;
+  top: 32.54%;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.novNain {
+  left: 72.29%;
+}
+.group,
+.group1,
+.group2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group,
+.group1 {
+  width: 55.72%;
+  right: 22.26%;
+  left: 22.02%;
+}
+.group {
+  height: 14.29%;
+  width: 89.52%;
+  top: 82.5%;
+  right: 0.75%;
+  bottom: 3.21%;
+  left: 9.73%;
+  text-align: center;
+  font-size: var(--subheading-style-size);
+}
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  height: 94.04%;
+  width: 2.24%;
+  top: 1.7%;
+  right: -1.12%;
+  bottom: 4.27%;
+  left: 98.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  height: 2.94%;
+  width: 31.58%;
+  top: 50.13%;
+  right: 0;
+  bottom: 46.93%;
+  left: 68.42%;
+}
+.div {
+  position: absolute;
+  height: 100%;
+  width: 42.11%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group5,
+.vectorIcon4 {
+  position: absolute;
+  height: 8.77%;
+  width: 55.88%;
+  top: 91.23%;
+  right: 0;
+  bottom: 0;
+  left: 44.12%;
+}
+.vectorIcon4 {
+  height: 2.94%;
+  width: 17.65%;
+  top: 50.13%;
+  bottom: 46.93%;
+  left: 82.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div1 {
+  position: absolute;
+  height: 100%;
+  width: 67.65%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group6,
+.group7,
+.group8,
+.vectorIcon7 {
+  position: absolute;
+  height: 8.77%;
+  width: 100%;
+  top: 67.84%;
+  right: 0;
+  bottom: 23.39%;
+  left: 0;
+}
+.group7,
+.group8,
+.vectorIcon7 {
+  top: 44.44%;
+  bottom: 46.78%;
+}
+.group8,
+.vectorIcon7 {
+  top: 21.05%;
+  bottom: 70.18%;
+}
+.vectorIcon7 {
+  height: 2.94%;
+  width: 17.65%;
+  top: 23.46%;
+  bottom: 73.6%;
+  left: 82.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group3,
+.group9 {
+  position: absolute;
+  height: 8.77%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 91.23%;
+  left: 0;
+}
+.group3 {
+  height: 85.07%;
+  width: 8.41%;
+  top: 1.06%;
+  right: 90.27%;
+  bottom: 13.87%;
+  left: 1.32%;
+}
+.groupIcon,
+.groupIcon1 {
+  position: absolute;
+  height: 44.7%;
+  width: 35.48%;
+  top: 37.8%;
+  right: 45.84%;
+  bottom: 17.5%;
+  left: 18.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon1 {
+  height: 62.7%;
+  top: 19.8%;
+  right: 9.76%;
+  left: 54.76%;
+}
+.cenaNaLetni,
+.chart {
+  position: absolute;
+  top: -0.44%;
+  left: 40.04%;
+}
+.chart {
+  top: 17px;
+  left: 0;
+  width: 532px;
+  height: 456px;
+  overflow: hidden;
+}
+.barChart,
+.div5 {
+  position: absolute;
+  top: 1.48%;
+  left: 4.12%;
+}
+.barChart {
+  top: 452px;
+  left: 271px;
+  width: 558px;
+  height: 473px;
+  text-align: right;
+  font-size: var(--font-size-xs);
+}
+.background1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  width: 559px;
+  height: 285px;
+}
+.div6 {
+  position: absolute;
+  top: 172px;
+  left: 260px;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+  color: var(--color-mediumseagreen);
+}
+.naLeto {
+  top: 182px;
+  left: 97px;
+  font-weight: 600;
+}
+.div7,
+.naLeto,
+.naMesec {
+  position: absolute;
+}
+.div7 {
+  top: 119px;
+  left: 260px;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+  color: var(--color-mediumseagreen);
+}
+.naMesec {
+  top: 129px;
+  left: 97px;
+  font-weight: 600;
+}
+.zNovimNainom {
+  margin: 0;
+}
+.zNovimNainomContainer {
+  position: absolute;
+  top: 61px;
+  left: 22px;
+  font-size: var(--text-style-size);
+}
+.title {
+  position: absolute;
+  top: 15px;
+  left: 22px;
+  font-weight: 600;
+}
+.background2,
+.results {
+  position: absolute;
+  top: 452px;
+  left: 871px;
+  width: 559px;
+  height: 285px;
+}
+.background2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  height: 250px;
+}
+.cenaNaLeta,
+.div8 {
+  position: absolute;
+  top: 173px;
+}
+.div8 {
+  left: 180px;
+  font-weight: 600;
+}
+.cenaNaLeta {
+  left: 27px;
+  font-size: var(--text-style-size);
+}
+.div9 {
+  position: absolute;
+  top: 115px;
+  left: 180px;
+  font-weight: 600;
+}
+.cenaNaMesec {
+  position: absolute;
+  top: 117px;
+  left: 27px;
+  font-size: var(--text-style-size);
+}
+.div10 {
+  position: absolute;
+  top: 59px;
+  left: 179px;
+  font-weight: 600;
+}
+.cenaNaDan,
+.title1 {
+  position: absolute;
+  left: 27px;
+}
+.cenaNaDan {
+  top: 61px;
+  font-size: var(--text-style-size);
+}
+.title1 {
+  top: 15px;
+  font-weight: 600;
+}
+.currentBilling {
+  position: absolute;
+  top: 165px;
+  left: 871px;
+  width: 559px;
+  height: 250px;
+}
+.div11 {
+  position: absolute;
+  top: 171px;
+  left: 167px;
+  font-weight: 600;
+}
+.cenaNaLeta1 {
+  position: absolute;
+  top: 173px;
+  left: 21px;
+  font-size: var(--text-style-size);
+}
+.div12 {
+  position: absolute;
+  top: 115px;
+  left: 167px;
+  font-weight: 600;
+}
+.cenaNaMesec1 {
+  position: absolute;
+  top: 117px;
+  left: 21px;
+  font-size: var(--text-style-size);
+}
+.div13 {
+  position: absolute;
+  top: 59px;
+  left: 167px;
+  font-weight: 600;
+}
+.cenaNaDan1,
+.title2 {
+  position: absolute;
+  left: 21px;
+}
+.cenaNaDan1 {
+  top: 61px;
+  font-size: var(--text-style-size);
+}
+.title2 {
+  top: 15px;
+  font-weight: 600;
+}
+.previousBilling,
+.title3 {
+  position: absolute;
+  left: 270px;
+}
+.previousBilling {
+  top: 165px;
+  width: 559px;
+  height: 250px;
+}
+.title3 {
+  top: 119px;
+  font-weight: 600;
+}
+.background4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 196px;
+  height: 42px;
+}
+.clipPathGroup {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.content {
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.background5,
+.comparison1 {
+  position: absolute;
+  left: 0;
+  width: 196px;
+  height: 42px;
+}
+.comparison1 {
+  top: 98px;
+  cursor: pointer;
+  color: var(--primary-color);
+}
+.background5 {
+  top: 0;
+  background-color: var(--primary-color);
+}
+.vectorIcon8,
+.zgodovina {
+  position: relative;
+  width: 14px;
+  height: 13.57px;
+}
+.zgodovina {
+  font-weight: 600;
+  display: inline-block;
+  width: 108px;
+  height: 21px;
+  flex-shrink: 0;
+}
+.content1 {
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.history {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  width: 196px;
+  height: 42px;
+  cursor: pointer;
+}
+.vectorIcon9 {
+  position: relative;
+  width: 15px;
+  height: 15px;
+}
+.home {
+  top: 10px;
+  width: 196px;
+  height: 42px;
+  cursor: pointer;
+}
+.background7,
+.home,
+.sidebar {
+  position: absolute;
+  left: 0;
+}
+.sidebar {
+  top: 97px;
+  background-color: var(--primary-color);
+  width: 196px;
+  height: 884px;
+  overflow: hidden;
+  color: var(--white);
+}
+.background7 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--white);
+}
+.logoIcon {
+  position: absolute;
+  height: 52.58%;
+  width: 18.25%;
+  top: 25.77%;
+  right: 80.62%;
+  bottom: 21.65%;
+  left: 1.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.janezNovak,
+.userProfileIcon {
+  position: relative;
+}
+.userProfileIcon {
+  width: 50px;
+  height: 50px;
+}
+.userInfo {
+  position: absolute;
+  top: 26px;
+  left: 1318px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  cursor: pointer;
+}
+.comparison,
+.navbar {
+  background-color: var(--white);
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.25);
+  width: 1512px;
+  height: 97px;
+  font-size: var(--text-style-size);
+}
+.comparison {
+  position: relative;
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--subheading-style-size);
+  color: var(--subheading-color);
+  font-family: var(--text-style);
+}

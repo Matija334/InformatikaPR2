@@ -1,0 +1,815 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 62px;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  width: 1162px;
+  height: 513px;
+}
+.legendForDataChild {
+  position: absolute;
+  height: 90.91%;
+  width: 90.91%;
+  top: 0;
+  right: 9.09%;
+  bottom: 9.09%;
+  left: 0;
+  background-color: var(--nd-color);
+}
+.legendForData {
+  position: relative;
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.pravilniPodatki {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.legendForDataInner,
+.legendForDataItem {
+  position: absolute;
+  height: 90.91%;
+  width: 90.91%;
+  top: 0;
+  right: 9.09%;
+  bottom: 9.09%;
+  left: 0;
+  background-color: var(--althered-data);
+}
+.legendForDataInner {
+  background-color: var(--color-indianred);
+}
+.mankajoiPodatki {
+  position: relative;
+}
+.legend {
+  position: absolute;
+  top: 439px;
+  left: 96px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-68xl);
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 1.82%;
+  width: 100%;
+  top: -0.91%;
+  right: 0;
+  bottom: 99.09%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 20.33%;
+  width: 6.96%;
+  top: 0;
+  right: 46.52%;
+  bottom: 79.67%;
+  left: 46.52%;
+}
+.div {
+  position: absolute;
+  height: 50.81%;
+  width: 100%;
+  top: 49.19%;
+  left: 0;
+  display: inline-block;
+}
+.group1 {
+  height: 100%;
+  width: 1.43%;
+  right: 98.57%;
+  bottom: 0;
+  left: 0;
+}
+.group1,
+.group2,
+.vectorIcon2 {
+  position: absolute;
+  top: 0;
+}
+.vectorIcon2 {
+  height: 20.33%;
+  width: 9.28%;
+  right: 45.36%;
+  bottom: 79.67%;
+  left: 45.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group2 {
+  height: 100%;
+  width: 1.07%;
+  right: 89.82%;
+  bottom: 0;
+  left: 9.11%;
+}
+.group3,
+.group4,
+.group5,
+.group6,
+.group7,
+.vectorIcon8 {
+  position: absolute;
+  height: 100%;
+  width: 1.43%;
+  top: 0;
+  right: 80.71%;
+  bottom: 0;
+  left: 17.86%;
+}
+.group4,
+.group5,
+.group6,
+.group7,
+.vectorIcon8 {
+  right: 71.78%;
+  left: 26.78%;
+}
+.group5,
+.group6,
+.group7,
+.vectorIcon8 {
+  right: 62.85%;
+  left: 35.71%;
+}
+.group6,
+.group7,
+.vectorIcon8 {
+  right: 53.93%;
+  left: 44.64%;
+}
+.group7,
+.vectorIcon8 {
+  right: 45%;
+  left: 53.57%;
+}
+.vectorIcon8 {
+  height: 20.33%;
+  width: 7.95%;
+  right: 46.02%;
+  bottom: 79.67%;
+  left: 46.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group10,
+.group8,
+.group9,
+.vectorIcon11 {
+  position: absolute;
+  height: 100%;
+  width: 1.25%;
+  top: 0;
+  right: 36.16%;
+  bottom: 0;
+  left: 62.59%;
+}
+.group10,
+.group9,
+.vectorIcon11 {
+  width: 1.43%;
+  right: 27.14%;
+  left: 71.42%;
+}
+.group10,
+.vectorIcon11 {
+  right: 18.21%;
+  left: 80.35%;
+}
+.vectorIcon11 {
+  height: 20.33%;
+  width: 3.98%;
+  right: 48.01%;
+  bottom: 79.67%;
+  left: 48.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group11,
+.vectorIcon12 {
+  position: absolute;
+  height: 100%;
+  width: 2.51%;
+  top: 0;
+  right: 8.75%;
+  bottom: 0;
+  left: 88.74%;
+}
+.vectorIcon12 {
+  height: 20.33%;
+  width: 4.64%;
+  right: 47.68%;
+  bottom: 79.67%;
+  left: 47.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group,
+.group12,
+.months {
+  position: absolute;
+  height: 100%;
+  width: 2.15%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 97.85%;
+}
+.group,
+.months {
+  width: 93.34%;
+  right: 3.16%;
+  left: 3.5%;
+}
+.months {
+  height: 14.76%;
+  width: 89.52%;
+  top: 82.5%;
+  right: 0.75%;
+  bottom: 2.74%;
+  left: 9.73%;
+}
+.vectorIcon13,
+.vectorIcon14 {
+  position: absolute;
+  height: 93.57%;
+  width: 1.36%;
+  top: 2.19%;
+  right: -0.68%;
+  bottom: 4.25%;
+  left: 99.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon14 {
+  height: 3.58%;
+  width: 31.58%;
+  top: 49.81%;
+  right: 0;
+  bottom: 46.61%;
+  left: 68.42%;
+}
+.div12 {
+  position: absolute;
+  height: 100%;
+  width: 42.11%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group14,
+.vectorIcon15 {
+  position: absolute;
+  height: 8.77%;
+  width: 46.34%;
+  top: 91.23%;
+  right: 0;
+  bottom: 0;
+  left: 53.66%;
+}
+.vectorIcon15 {
+  height: 3.58%;
+  width: 17.65%;
+  top: 49.81%;
+  bottom: 46.61%;
+  left: 82.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div13 {
+  position: absolute;
+  height: 100%;
+  width: 67.65%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group15,
+.vectorIcon16 {
+  position: absolute;
+  height: 8.77%;
+  width: 82.93%;
+  top: 67.84%;
+  right: 0;
+  bottom: 23.39%;
+  left: 17.07%;
+}
+.vectorIcon16 {
+  height: 3.58%;
+  width: 15%;
+  top: 49.81%;
+  bottom: 46.61%;
+  left: 85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div14 {
+  position: absolute;
+  height: 100%;
+  width: 72.5%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group16,
+.vectorIcon17 {
+  position: absolute;
+  height: 8.77%;
+  width: 97.56%;
+  top: 44.44%;
+  right: 0;
+  bottom: 46.78%;
+  left: 2.44%;
+}
+.vectorIcon17 {
+  height: 3.58%;
+  width: 15.38%;
+  top: 49.81%;
+  bottom: 46.61%;
+  left: 84.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div15 {
+  position: absolute;
+  height: 100%;
+  width: 71.79%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group17,
+.vectorIcon18 {
+  position: absolute;
+  height: 8.77%;
+  width: 95.12%;
+  top: 21.05%;
+  right: 0;
+  bottom: 70.18%;
+  left: 4.88%;
+}
+.vectorIcon18 {
+  height: 3.58%;
+  width: 14.63%;
+  top: 23.14%;
+  bottom: 73.27%;
+  left: 85.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div16 {
+  position: absolute;
+  height: 100%;
+  width: 73.17%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group13,
+.group18,
+.kwh {
+  position: absolute;
+  height: 8.77%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 91.23%;
+  left: 0;
+}
+.group13,
+.kwh {
+  height: 100%;
+  bottom: 0;
+}
+.kwh {
+  height: 85.5%;
+  width: 6.14%;
+  top: 0.63%;
+  right: 90.27%;
+  bottom: 13.87%;
+  left: 3.59%;
+  text-align: right;
+}
+.valuesIcon {
+  position: absolute;
+  height: 75.56%;
+  width: 87.9%;
+  top: 6.94%;
+  right: 1.62%;
+  bottom: 17.5%;
+  left: 10.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chart {
+  top: 64px;
+  left: 0;
+  width: 1200px;
+  height: 372px;
+  overflow: hidden;
+  text-align: center;
+}
+.chart,
+.kwh1,
+.title {
+  position: absolute;
+}
+.kwh1 {
+  top: 36px;
+  left: 90px;
+  text-align: center;
+}
+.title {
+  top: 12px;
+  left: calc(50% - 137px);
+  font-size: var(--subheading-style-size);
+  font-weight: 600;
+}
+.background1,
+.barChart {
+  position: absolute;
+  top: 412px;
+  left: 214px;
+  width: 1224px;
+  height: 513px;
+}
+.background1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  width: 577px;
+  height: 204px;
+}
+.chartIcon {
+  position: absolute;
+  height: 85.78%;
+  width: 30.33%;
+  top: 7.11%;
+  right: 60.92%;
+  bottom: 7.11%;
+  left: 8.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.legend1 {
+  position: absolute;
+  top: 62px;
+  left: 321px;
+  width: 152px;
+  height: 114px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.title1 {
+  position: absolute;
+  top: 13px;
+  left: 305px;
+  font-size: var(--subheading-style-size);
+  font-weight: 600;
+}
+.pieChart {
+  position: absolute;
+  top: 165px;
+  left: 861px;
+  width: 577px;
+  height: 204px;
+}
+.smallWindowChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+}
+.smallWindow,
+.smallWindow1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 90px;
+}
+.smallWindow1 {
+  left: 313px;
+}
+.div17,
+.mwh {
+  position: absolute;
+  top: 43px;
+  left: 63px;
+  font-weight: 800;
+}
+.div17 {
+  left: 405px;
+}
+.skupnaPoraba,
+.teviloSpremenjenihPodatkov {
+  position: absolute;
+  top: 10px;
+  left: 63px;
+  font-size: var(--text-style-size);
+}
+.teviloSpremenjenihPodatkov {
+  left: 313px;
+}
+.upperRow {
+  position: relative;
+  width: 553px;
+  height: 90px;
+}
+.povprenaPoraba {
+  position: absolute;
+  top: 10px;
+  left: 51px;
+}
+.div18,
+.mwh1,
+.teviloAnomalij {
+  position: absolute;
+  top: 10px;
+  left: 376px;
+}
+.div18,
+.mwh1 {
+  top: 43px;
+  left: 51px;
+  font-size: var(--heading-style-size);
+  font-weight: 800;
+}
+.div18 {
+  left: 400px;
+}
+.bottomRow {
+  position: relative;
+  width: 553px;
+  height: 90px;
+  font-size: var(--text-style-size);
+}
+.smallWindows {
+  position: absolute;
+  top: 165px;
+  left: 271px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--heading-style-size);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+  width: 70px;
+  height: 25px;
+}
+.dan {
+  position: absolute;
+  top: 3px;
+  left: 18px;
+}
+.rectangleParent {
+  position: relative;
+  width: 70px;
+  height: 25px;
+  cursor: pointer;
+}
+.groupInner,
+.mesec {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+}
+.groupInner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+  width: 70px;
+  height: 25px;
+}
+.leto {
+  position: absolute;
+  top: 3px;
+  left: 15px;
+}
+.rectangleContainer {
+  position: relative;
+  width: 70px;
+  height: 25px;
+}
+.buttons {
+  position: absolute;
+  top: 118px;
+  left: 1190px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+  font-size: var(--text-style-size);
+}
+.title2 {
+  position: absolute;
+  top: 119px;
+  left: 270px;
+  font-size: var(--subheading-style-size);
+  font-weight: 600;
+}
+.background2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--primary-color);
+  width: 196px;
+  height: 42px;
+}
+.clipPathGroup {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.primerjava {
+  margin: 0;
+}
+.content {
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.comparison {
+  position: absolute;
+  top: 98px;
+  left: 0;
+  width: 196px;
+  height: 42px;
+  cursor: pointer;
+}
+.vectorIcon19,
+.zgodovina {
+  position: relative;
+  width: 14px;
+  height: 13.57px;
+}
+.zgodovina {
+  font-weight: 600;
+  display: inline-block;
+  width: 108px;
+  height: 21px;
+  flex-shrink: 0;
+}
+.content1 {
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.background4,
+.history {
+  position: absolute;
+  left: 0;
+  width: 196px;
+  height: 42px;
+}
+.history {
+  top: 54px;
+  cursor: pointer;
+}
+.background4 {
+  top: 0;
+  background-color: var(--white);
+}
+.vectorIcon20 {
+  position: relative;
+  width: 15px;
+  height: 15px;
+}
+.home {
+  top: 10px;
+  width: 196px;
+  height: 42px;
+  cursor: pointer;
+  color: var(--primary-color);
+}
+.background5,
+.home,
+.sidebar {
+  position: absolute;
+  left: 0;
+}
+.sidebar {
+  top: 97px;
+  background-color: var(--primary-color);
+  width: 196px;
+  height: 884px;
+  overflow: hidden;
+  font-size: var(--subheading-style-size);
+  color: var(--white);
+}
+.background5 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--white);
+}
+.logoIcon {
+  position: absolute;
+  height: 52.58%;
+  width: 18.25%;
+  top: 25.77%;
+  right: 80.62%;
+  bottom: 21.65%;
+  left: 1.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.userProfileIcon {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.userInfo {
+  position: absolute;
+  top: 26px;
+  left: 1318px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  cursor: pointer;
+}
+.homeYear,
+.navbar {
+  background-color: var(--white);
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.25);
+  width: 1512px;
+  height: 97px;
+  font-size: var(--text-style-size);
+}
+.homeYear {
+  position: relative;
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--subheading-color);
+  font-family: var(--text-style);
+}

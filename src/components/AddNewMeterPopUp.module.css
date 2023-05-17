@@ -1,0 +1,83 @@
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--windows-colors);
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+}
+.title {
+  position: absolute;
+  top: 5.56%;
+  left: 28.8%;
+  font-weight: 600;
+}
+.groupChild {
+  position: absolute;
+  height: 24.24%;
+  width: 49.63%;
+  top: 75.76%;
+  right: 24.07%;
+  bottom: 0;
+  left: 26.3%;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-color);
+  border: 1px solid var(--subheading-color);
+  box-sizing: border-box;
+}
+.dodajNovTevec {
+  position: absolute;
+  top: 80.61%;
+  left: 30.52%;
+  font-size: var(--subheading-style-size);
+  font-weight: 600;
+  color: var(--white);
+  -webkit-text-stroke: 1px #000;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 153px;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 250px;
+  height: 45px;
+}
+.npr234565759,
+.tevilkaTevca {
+  position: absolute;
+  top: 13px;
+  left: 0;
+}
+.npr234565759 {
+  left: 163px;
+  opacity: 0.5;
+}
+.rectangleParent {
+  position: absolute;
+  height: 61.11%;
+  width: 72.09%;
+  top: 26.67%;
+  right: 14.67%;
+  bottom: 12.22%;
+  left: 13.24%;
+  cursor: pointer;
+  font-size: var(--text-style-size);
+}
+.addNewMeterPopUp {
+  position: relative;
+  width: 559px;
+  height: 270px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--subheading-style-size);
+  color: var(--subheading-color);
+  font-family: var(--text-style);
+}
